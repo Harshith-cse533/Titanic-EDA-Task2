@@ -1,0 +1,5 @@
+1. Age has missing values.
+2. Cabin has many missing values.
+3. Fare has some outliers.
+4. Most passengers were between 20 and 40 years old.
+5. Passenger class affects survival.
